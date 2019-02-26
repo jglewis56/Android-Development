@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jordanlewis/Documents/AndroidDev/03_ActivityLifecycle/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_right.png",
+        "source": "/Users/jordanlewis/Documents/AndroidDev/03_ActivityLifecycle/app/src/main/res/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/jordanlewis/Documents/AndroidDev/03_ActivityLifecycle/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow_left.png",
+        "source": "/Users/jordanlewis/Documents/AndroidDev/03_ActivityLifecycle/app/src/main/res/drawable-hdpi/arrow_left.png"
+    }
+]
